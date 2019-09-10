@@ -1,0 +1,6 @@
+classes= 80
+train=/media/ding/Data/datasets/coco/2014/train.txt
+valid=/media/ding/Data/datasets/coco/2014/val.txt
+names=/media/ding/Data/datasets/coco/2014/coco.names
+backup=backup/
+eval=coco
